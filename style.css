@@ -168,7 +168,7 @@ section .title::after{
 /************************** home**************************/
 .home{
     display: flex;
-    background: url("file:///C:/Users/User/Desktop/Personal%20Portfolio%20Website%20[With%20Working%20Contact%20us%20Form%20Codes]/images/homepic.jpg") no-repeat center;
+    background: url("images/program.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
