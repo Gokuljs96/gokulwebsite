@@ -50,7 +50,7 @@ $(document).ready(function(){
  
     //typingtext animationeffect
     var typed = new Typed(".typing", {
-        strings: [ "Front-End-Developer", "Designer"],
+        strings: [ "Software Test engineer", "Designer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
